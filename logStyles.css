@@ -7,7 +7,20 @@ code
 
 textarea#code
 {
+    rows: auto;
+    cols: 200;
+}
+
+#code
+{
     font-family:monospace;
     background-color:black;
     color:white;
+    /* A bit of an outline so that it looks a little nicer*/
+    padding:2px;
+}
+
+h1
+{
+
 }
