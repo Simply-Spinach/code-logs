@@ -2,4 +2,5 @@
 
 Caelin Conner
 
-Code logs for my HTML class
+
+Code logs for my Website Design class
